@@ -1,0 +1,10 @@
+torch
+torch-geometric
+pandas
+numpy
+matplotlib
+networkx
+scikit-learn
+seaborn
+
+
