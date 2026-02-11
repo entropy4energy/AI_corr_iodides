@@ -1,6 +1,6 @@
-# GNN Correction Project (Lightweight Version)
+# GNN Correction Project
 
-This is a standalone, lightweight version of the GNN correction model for predicting enthalpy formation corrections.
+This is a standalone version of the GNN correction model for predicting enthalpy formation corrections.
 
 ## Project Structure
 
