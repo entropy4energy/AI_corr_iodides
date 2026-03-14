@@ -1,6 +1,3 @@
-# GNN Correction Project
-
-This is a standalone version of the GNN correction model for predicting enthalpy formation corrections.
 
 ## Project Structure
 
